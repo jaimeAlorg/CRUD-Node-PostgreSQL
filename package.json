@@ -1,0 +1,16 @@
+{
+  "name": "CRUD-Node-PostgreSQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jaimeAlorg/CRUD-Node-PostgreSQL.git",
+  "author": "jaime <jaime.alorg1998@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
+}
